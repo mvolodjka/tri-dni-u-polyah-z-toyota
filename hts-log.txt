@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Jun 2023 17:56:50 at https://landlord.ua/wp-content/page/toyota/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "uk, en, *" https://landlord.ua/wp-content/page/toyota/ -O1 "C:\web\1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:57:04	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://landlord.ua/wp-content/page/toyota/)
+17:57:23	Error: 	"Not Found" (404) at link https://landlord.ua/wp-content/themes/landlord/includes/images/video-arrow-left.png (from https://landlord.ua/wp-content/themes/landlord/includes/css/style.css)
+17:57:23	Error: 	"Not Found" (404) at link https://landlord.ua/wp-content/themes/landlord/includes/images/video-arrow.png (from https://landlord.ua/wp-content/themes/landlord/includes/css/style.css)
+17:57:23	Error: 	"Not Found" (404) at link https://landlord.ua/wp-content/page/toyota/img/separator-line.png (from https://landlord.ua/wp-content/page/toyota/css/main.css)
+17:57:23	Error: 	"Not Found" (404) at link https://landlord.ua/wp-content/page/toyota/img/uk.svg (from https://landlord.ua/wp-content/page/toyota/css/main.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 135 links scanned, 129 files written (20656524 bytes overall) [19695861 bytes received at 596844 bytes/sec], 1372181 bytes transferred using HTTP compression in 36 files, ratio 26%, 13.6 requests per connection
+(5 errors, 0 warnings, 0 messages)

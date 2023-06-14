@@ -1,0 +1,428 @@
+
+@media screen and (max-width: 1599px) {
+	.day blockquote {
+
+	max-width: 250px;
+	font-size: 16px;
+	font-weight: 500;
+	margin-left: 50px;
+
+}
+	.day blockquote.blockquote-day-3 {
+	bottom: 0;
+	right: 27%;
+
+}
+}
+@media screen and (max-width: 1412px) {
+	
+	
+	.day blockquote {
+
+	max-width: 250px;
+	font-size: 16px;
+	font-weight: 500;
+	margin-left: 50px;
+
+}
+	.day blockquote.blockquote-day-3 {
+    bottom: 0px;
+    right: 27%;
+    max-width: 320px;
+}
+	
+	
+	.day .left {left: 135px;}
+	
+	.pidpis-foto {
+	
+	bottom: 37px;
+
+	
+	left: 26%;
+
+}
+	.day-3 .black .intro-txt {
+	margin: 10px;
+	max-width: 100%;
+	width: 100%;
+}
+	.day-3 .black {
+	background: #000;
+	padding: 50px;
+	/* width: 46%; */
+	position: relative;
+	float: right;
+	margin-top: -275px;
+	
+}
+	.intro-txt-abzac {
+	font-weight: bold;
+	float: left;
+	margin: 0 0 0 135px;
+}
+	
+}
+@media screen and (max-width: 1350px)  {
+		.day blockquote {
+	max-width: 213px;
+	font-size: 14px;
+	font-weight: 500;
+	margin-left: 25px;
+}
+	
+	
+}
+
+
+@media screen and (max-width: 1285px){
+	
+	
+	
+	
+	.day blockquote {
+	max-width: 200px;
+	font-size: 14px;
+	font-weight: 500;
+	margin-left: 25px;
+}
+	
+	.day blockquote.blockquote-day-3 {left: 22%;}
+	
+	.intro-txt-abzac {
+	font-weight: bold;
+	float: left;
+	margin: -60px 0 0 100px;
+}
+	.pidpis-foto {
+	bottom: 37px;
+	left: 23%;
+}
+	
+}
+
+@media screen and (max-width: 1165px){
+	.content p {max-width: 700px;}
+	.intro-txt {
+	margin-left: 60px;
+	margin-top: 135px;
+	width: 41%;
+}
+	.foto-avtor span {
+	-webkit-transform: rotate(-90deg);
+	    -ms-transform: rotate(-90deg);
+	        transform: rotate(-90deg);
+	display: block;
+	position: absolute;
+	font-weight: 500;
+	font-size: 13px;
+	left: -25px;
+}
+	.day blockquote::before {
+	
+	width: 45px;
+	height: 45px;
+	margin: 1px 0px 7px 0px;
+}
+	.day blockquote {
+	max-width: 125;
+	font-size: 12px;
+	font-weight: 500;
+	margin-left: 15px;
+}
+	.day blockquote.blockquote-day-3 {
+	bottom: 0px;
+	right: 27%;
+	max-width: 289px;
+}
+	.day-3 .black {
+
+	margin-right: 0;
+}
+	.pidpis-foto {
+	bottom: 22px;
+	left: 21%;
+	
+}
+	.pidpis-foto p {
+font-size: 12px;
+	line-height: 1.5;
+	
+	
+	}
+	.intro-txt-abzac {
+	font-weight: bold;
+	float: left;
+	margin: -60px 0 0 100px;
+}
+		.slogan {max-width: 70%}
+}
+
+@media screen and (max-width: 1024px){
+	.machine {
+	
+	max-width: 490px;
+	
+}
+	
+	.day-foto {
+	width: 48%;
+		
+	height: auto;
+	top: -100px;
+	max-width: none;
+}
+	.day-foto img {
+		width: 100%;
+		height: auto;
+	}
+	
+	.foto-avtor span {
+	
+	left: -60px;
+}
+	.day blockquote {
+	max-width: 105px;
+
+		}
+	.car::before {
+
+	right: 10px;
+
+}
+	.slogan {max-width: 50%}
+}
+@media screen and (max-width: 860px){
+	
+	.nav-fixed {
+		padding: 50px 20px;
+	}
+}
+@media screen and (max-width: 768px){
+	.pidpis-foto {left: 0px;}
+	.points-os, .bacgraund-50
+	{display: none;}
+	
+	
+	
+	.opacity-000-29 {position: relative;}
+	
+	.content .intro p {
+	width: 100%;
+	margin: auto;
+	max-width: none;
+	margin: 0 10px 35px;
+	/* box-sizing: border-box; */
+}
+	.machine {
+	max-width: 100%;
+	margin: auto auto;
+	float: none;
+		height: 361px;
+}
+	.dani {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+ margin-left: 0px;
+	margin-top: 50px;
+		
+}
+	
+	.day-foto {
+	width: 100%;
+	height: auto;
+	/* top: -100px; */
+	max-width: none;
+	position: relative;
+}
+	.day  {padding: 0;}
+	.intro-txt {
+	/* margin-left: 60px; */
+	/* margin-top: 135px; */
+	width: 100%;
+	margin: 15px !important;
+}
+	.day-intro {display: table;}
+	.day-intro .black {
+	width: 100%;
+		padding-bottom: 10px;
+		
+	
+position: relative;
+	bottom: 0;
+	display: table;
+
+}
+	.day-foto {
+	width: 100%;
+	height: auto;
+	top: 0;
+	max-height: none;
+	position: relative;
+}
+	.day-foto figcaption {
+	color: #fff;
+	font-size: 14px;
+	margin: 15px;
+}
+	.content p {
+	
+	
+	
+	margin: 0 15px 30px;
+}
+	.foto-avtor span {
+	left: 15px;
+	-webkit-transform: rotate(0deg);
+	    -ms-transform: rotate(0deg);
+	        transform: rotate(0deg);
+}
+	.day blockquote {
+	max-width: none;
+	width: 100%;
+	margin: 25px 15px;
+	position: relative;
+		font-size: 17px;
+}
+	.slider, .slider2, .slider3 {
+	height: auto;
+	width: 90%;
+
+	margin: auto;
+
+}
+	.day blockquote.blockquote-day-3 {
+	top: 0px;
+	left: 0;
+	max-width: none;
+	position: relative;
+}
+	.day-3 .black {
+	margin-right: 0;
+	width: 100%;
+	position: relative;
+	margin: 0 !important;
+}
+	.day-3 .black {
+
+	width: 100%;
+	position: relative;
+	margin: 0;
+		padding: 10px;
+}
+	.day-3 .intro-txt {margin: 15px 0 0 !important; padding: 0 !important}
+	.day-3 .abz-one {margin-top: 30px}
+	
+}
+
+
+@media screen and (max-width: 626px){
+	
+	.pidpis-foto {
+	left: 0px;
+	width: 150px;
+	font-size: 8px;
+}
+	
+}
+@media screen and (max-width: 530px){
+	
+	.dp_item {
+		position: relative;
+	}
+	#dp-next, 		#dp-prev {display: none;}
+.pidpis-foto {
+	left: 0px;
+	/* width: 150px; */
+	font-size: 8px;
+	position: relative;
+	width: 100%;
+	margin: 30px 0px 0;
+}
+	
+	.avtor-toyota {font-size: 9px}
+	.content p {
+	font-size: 15px;
+	line-height: 25px;
+font-weight: normal;
+}
+	.dani {
+	display: block;
+	margin-left: 0px;
+	margin-top: 50px;
+}
+	.dani .kolonka-dani {
+	margin: 25px 15px;
+	text-align: center;
+}
+	.intro-txt {
+	/* margin-left: 60px; */
+	/* margin-top: 135px; */
+	width: 100%;
+	margin: 0px;
+	/* box-sizing: border-box; */
+	padding: 10px;
+}
+	.day .day-zag, .day-pidzag, .day-txt {
+
+	margin-top: 20px;
+	font-size: 15px;
+}
+	.content p {
+	font-size: 14px;
+	line-height: 25px;
+	font-weight: normal;
+	width: auto;
+}
+	.foto-avtor span {
+	left: -71px;
+	-webkit-transform: rotate(-90deg);
+	    -ms-transform: rotate(-90deg);
+	        transform: rotate(-90deg);
+	bottom: 57px;
+}
+	.slider, .slider2, .slider3 {
+	height: auto;
+	width: 100%;
+	margin: auto;
+}
+	.car {display: none;}
+
+.day blockquote {
+
+	width: auto;
+
+}
+.nav-bag, .nav-fixed {
+
+	padding: 5px 5px;
+	height: auto;
+	display: block;
+	position: relative;
+	background-color: rgba(15, 15, 15, 0.59);
+}
+.slogan {
+	/* display: table; */
+	color: #fff;
+	font-weight: bold;
+	font-size:105%;
+	width: 60%;
+	/* border-bottom: 2px solid #555555; */
+	max-width: none;
+	position: relative;
+}
+.logo-ll {
+	/* position: absolute; */
+	z-index: 105;
+	/* top: 50px; */
+	/* right: 135px; */
+	display: block;
+	width: 30%;
+	margin: 5px 10px 5px;
+}
+.full, .full-os {
+	
+	margin-bottom: 10px;
+}
+}
